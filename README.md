@@ -32,7 +32,7 @@ discord-landing/
 
 1. 📥 Clone or download this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+   [git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/RAJVEER42/discord-clone-.git)
    cd YOUR_REPO_NAME
    ```
 
