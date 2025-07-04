@@ -48,7 +48,7 @@ discord-landing/
 
 ---
 
-## 🙏 Credits
+## ➡️ Credits
 
 - 💡 Inspired by Discord's official design language.  
 - 🖼️ All images and videos are for demo purposes only.
